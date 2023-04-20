@@ -1,6 +1,7 @@
 
 ## Project Features
 
+:heavy_check_mark: TMDB API movies <br />
 :heavy_check_mark: Upcoming movies <br />
 :heavy_check_mark: Top Rated movies <br />
 :heavy_check_mark: Popular movies <br />
