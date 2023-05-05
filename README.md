@@ -9,7 +9,7 @@
 ## :fire: Technologies and Libraries
 
 :point_right: React.js <br />
-:point_right: Next.js <br />
+:point_right: Next.js (v13) <br />
 :point_right: Tailwind Css <br />
 :point_right: Redux <br />
 :point_right: Redux Toolkit <br />
